@@ -1,13 +1,23 @@
-=====================
+*********************
  Misho / Sho Iwamoto
-=====================
+*********************
 
 * 👨‍🔬 Physicist at `ELTE Eötvös Loránd University <http://pppheno.elte.hu/>`_, Budapest, 🇭🇺 Hungary
 * 👨‍💻 Scientific computing / Web programing / Hobby programmer
 * 🍎 Links: `Homepage <https://www.misho-web.com/>`_ / `CV <https://www.misho-web.com/phys/cv/cv.pdf>`_ / `InspireHEP <https://inspirehep.net/literature?q=exactauthor:S.Iwamoto.2>`_
 
-GitHub Pages
-============
+For physicists:
+
+* 🍣 My `CheatSheet <https://github.com/misho104/hepphCheatSheet/blob/master/CheatSheet.pdf>`_ for QFT, high-energy Physics, and Cosmology
+* 💻 `FeynLecture <https://misho104.github.io/FeynLecture/>`_: a lecture course for FeynArts, FormCalc, LoopTools, MadGraph_aMC@NLO.
+* 💱 `Natural-units converter <https://github.com/misho104/natural_units>`_
+
+Github Activities
+=================
+
+Lecture courses on Github
+-----------------------
+
 FeynLecture — Tools for BSM Physics
    | https://misho104.github.io/FeynLecture/
    Graduate-level lecture course (workshop) in high-energy physics on
@@ -16,11 +26,8 @@ FeynLecture — Tools for BSM Physics
    * Monte Carlo simulation of particle collision based on MadGraph_aMC@NLO.
 
 
-(Some of) Repositories
-======================
-
-Repositories for my scientific publications
--------------------------------------------
+Repositories for Scientific publications
+----------------------------------------
 
 These repositories may include my contribution (codes, notes, data, or results) for the publications.
 They are open to public, but see license descriptions enclosed in each repository for your use.
@@ -36,8 +43,8 @@ They are open to public, but see license descriptions enclosed in each repositor
    | Phys. Rev. **D 100** (2019) 075029 (doi:`10.1103/PhysRevD.100.075029 <https://doi.org/10.1103/PhysRevD.100.075029>`_) [`arXiv:1905.12634 <https://arxiv.org/abs/1905.12634>`_].
 
 
-My private notes (on physics)
------------------------------
+Notes and tools for Physics
+---------------------------
 
 `misho104/hepphCheatSheet <https://github.com/misho104/hepphCheatSheet>`_
    My cheatsheet for high-energy physics calculations.
