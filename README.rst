@@ -15,6 +15,23 @@ For physicists:
 Github Activities
 =================
 
+
+.. |stat0| image:: https://raw.githubusercontent.com/misho104/github-profile-summary-cards/master/profile-summary-card-output/vue/0-profile-details.svg
+   :height: 150
+
+.. |stat1| image:: https://raw.githubusercontent.com/misho104/github-profile-summary-cards/master/profile-summary-card-output/vue/1-repos-per-language.svg
+   :height: 150
+
+.. |stat2| image:: https://raw.githubusercontent.com/misho104/github-profile-summary-cards/master/profile-summary-card-output/vue/2-most-commit-language.svg
+   :height: 150
+
+.. |stat3| image:: https://raw.githubusercontent.com/misho104/github-profile-summary-cards/master/profile-summary-card-output/vue/3-stats.svg
+   :height: 150
+
++---------+---------+---------+
+| |stat3| | |stat1| | |stat2| +
++---------+---------+---------+
+
 Lecture courses on Github
 -----------------------
 
