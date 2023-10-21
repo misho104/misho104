@@ -1,6 +1,6 @@
-*********************
- Misho / Sho Iwamoto
-*********************
+*******************************
+ Misho / Sho Iwamoto / 岩本　祥
+*******************************
 
 * 👨‍🔬 Physicist at `NSYSU <https://phys.nsysu.edu.tw/>`_, Kaohsiung, 🇹🇼 Taiwan (R.O.C.)
 * 👨‍💻 Scientific computing / Web programing / Hobby programmer
